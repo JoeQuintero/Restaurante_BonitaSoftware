@@ -19,3 +19,6 @@ El repositorio contiene los archivos necesarios para testear el programa por med
 <a href=""><img src="https://github.com/JoeQuintero/Restaurante_BonitaSoftware/blob/main/screen1a.png" style="height: 100%; width:60%;"/></a>
 <a href=""><img src="https://github.com/JoeQuintero/Restaurante_BonitaSoftware/blob/main/screen2.png" style="height: 100%; width:60%;"/></a>
 <a href=""><img src="https://github.com/JoeQuintero/Restaurante_BonitaSoftware/blob/main/screen3.png" style="height: 100%; width:60%;"/></a>
+<a href=""><img src="https://github.com/JoeQuintero/Restaurante_BonitaSoftware/blob/main/screen4.png" style="height: 100%; width:60%;"/></a>
+<a href=""><img src="https://github.com/JoeQuintero/Restaurante_BonitaSoftware/blob/main/screen4a.png" style="height: 100%; width:60%;"/></a>
+<a href=""><img src="https://github.com/JoeQuintero/Restaurante_BonitaSoftware/blob/main/screen4b.png" style="height: 100%; width:60%;"/></a>
