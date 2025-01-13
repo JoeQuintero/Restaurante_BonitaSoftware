@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<businessObjectModel xmlns="http://documentation.bonitasoft.com/bdm-xml-schema/1.0" modelVersion="1.0" productVersion="8.0.0">
+    <businessObjects>
+        <businessObject qualifiedName="com.company.model.Bienvenida">
+            <fields>
+                <field type="STRING" length="255" name="mensaje" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="claveMensaje" nullable="true" collection="false"/>
+                <field type="LOCALDATE" length="255" name="fechaRegistro" nullable="true" collection="false"/>
+                <field type="INTEGER" length="255" name="numeroDiaSemana" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.EstaCompleto">
+            <fields>
+                <field type="STRING" length="255" name="opcion" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.Menu">
+            <fields>
+                <field type="STRING" length="255" name="opcion" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.MenuSalida">
+            <fields>
+                <field type="STRING" length="255" name="opcion" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.Platillos">
+            <fields>
+                <field type="STRING" length="255" name="platillo" nullable="true" collection="false"/>
+                <field type="TEXT" length="255" name="imgpla" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="clavePa" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="descripcion" nullable="true" collection="false"/>
+                <field type="FLOAT" length="255" name="precio" nullable="true" collection="false"/>
+                <field type="INTEGER" length="255" name="tiempoPrepa" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="categoria" nullable="true" collection="false"/>
+                <field type="LOCALDATE" length="255" name="fechaAlta" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="registroNombre" nullable="true" collection="false"/>
+                <field type="INTEGER" length="255" name="numregistro" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.Promos">
+            <fields>
+                <field type="INTEGER" length="255" name="clavePromo" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="autorizo" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="clavePla" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="platillo" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="descuento" nullable="true" collection="false"/>
+                <field type="FLOAT" length="255" name="nuevoPrecio" nullable="true" collection="false"/>
+                <field type="LOCALDATE" length="255" name="fechaInicialPromo" nullable="true" collection="false"/>
+                <field type="LOCALDATE" length="255" name="fechaFinalPromo" nullable="true" collection="false"/>
+                <field type="INTEGER" length="255" name="totalDias" nullable="true" collection="false"/>
+                <field type="TEXT" length="255" name="archivoPromo" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.Repartidor">
+            <fields>
+                <field type="STRING" length="255" name="nombre" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="claveRepartidor" nullable="true" collection="false"/>
+                <field type="LOCALDATE" length="255" name="fechaRegistro" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="tipoLicencia" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="situacion" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.Sugerencias">
+            <fields>
+                <field type="STRING" length="255" name="nombre" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="descripcion" nullable="true" collection="false"/>
+                <field type="FLOAT" length="255" name="precio" nullable="true" collection="false"/>
+                <field type="TEXT" length="255" name="sugArchivo" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="idSugerencia" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="categoria" nullable="true" collection="false"/>
+                <field type="LOCALDATE" length="255" name="fechaInicioSugerencia" nullable="true" collection="false"/>
+                <field type="LOCALDATE" length="255" name="fechaFinalSugerencia" nullable="true" collection="false"/>
+                <field type="INTEGER" length="255" name="totalDias" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.Validar">
+            <fields>
+                <field type="STRING" length="255" name="usuario" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="pass" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+    </businessObjects>
+</businessObjectModel>
