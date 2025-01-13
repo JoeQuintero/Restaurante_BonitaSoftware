@@ -1,4 +1,4 @@
-<a href=""><img src=".png" style="height: 15%; width:15%;"/></a>
+<a href=""><img src="https://github.com/JoeQuintero/Restaurante_BonitaSoftware/blob/main/restaurant.png" style="height: 15%; width:15%;"/></a>
 ## Restaurante
 ### Restaurante de comida japonesa en Bonita Software.
 
@@ -15,7 +15,7 @@ El proyecto fué desarrolllado en la versión de BonitaStudioCommunnity: 2023.1
 El repositorio contiene los archivos necesarios para testear el programa por medio del archivo con extensión .bos 
 
 ### Versión web (Ejecutandose en Local):
-<a href=""><img src=".png" style="height: 100%; width:60%;"/></a>
-<a href=""><img src=".png" style="height: 100%; width:60%;"/></a>
-<a href=""><img src=".png" style="height: 100%; width:60%;"/></a>
-<a href=""><img src=".png" style="height: 100%; width:60%;"/></a>
+<a href=""><img src="https://github.com/JoeQuintero/Restaurante_BonitaSoftware/blob/main/screen1.png" style="height: 100%; width:60%;"/></a>
+<a href=""><img src="https://github.com/JoeQuintero/Restaurante_BonitaSoftware/blob/main/screen1a.png" style="height: 100%; width:60%;"/></a>
+<a href=""><img src="https://github.com/JoeQuintero/Restaurante_BonitaSoftware/blob/main/screen2.png" style="height: 100%; width:60%;"/></a>
+<a href=""><img src="https://github.com/JoeQuintero/Restaurante_BonitaSoftware/blob/main/screen3.png" style="height: 100%; width:60%;"/></a>
